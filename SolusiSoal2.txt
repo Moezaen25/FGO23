@@ -1,0 +1,8 @@
+2. Perintah Terminal yang saya pelajari hari ini ialah
+   -mkdir, membuat directory baru
+   -cd, berpindah directory
+   -echo, menampilkan ke layar terminal atau memasukkan output ke dalam file
+   -dir, menampilkan list directory pada lokasi yang bersangkutan
+   -del, menghapus file
+   -rmdir, menghapus directory kosong
+

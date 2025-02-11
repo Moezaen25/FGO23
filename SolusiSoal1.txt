@@ -1,0 +1,24 @@
+1. GUI merupakan sebuah antarmuka yang bersifat visual. Sedangkan, CLI merupakan sebuah antarmuka yang berinteraksi dengan baris-baris perintah
+
+Keuntungan dan Kerugian GUI
+  -Keuntungan :
+   .Desain Menarik
+   .Memudahkan Interaksi Pengguna dan Komputer
+   .Mudah Digunakan
+   .Mudah dipelajari
+  -Kerugian :
+   .Menggunakan lebih banyak memori komputer
+   .GUI menjadi lebih kompleks jika berkomunikasi langsung
+   .Perintah tersembunyi harus dicari menggunakan file bantuan
+
+   Keuntungan dan Kerugian CLI
+  -Keuntungan :
+   .Efisiensi, ringan dan cepat
+   .mudah dalam membuat folder dan sub folder
+   .performa stabil
+   .free
+  -Kerugian :
+   .Terkesan tidak menarik dan membosankan
+   .Harus menghafal
+   .Salah perintah bisa fatal
+
